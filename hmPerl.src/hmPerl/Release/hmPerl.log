@@ -1,0 +1,12 @@
+﻿  hidemaruexe_export.cpp
+  perlez_engine.cpp
+  perlez_engine_path.cpp
+  perlez_magical_scalar.cpp
+  dllfunc_interface.cpp
+g:\repogitory\hidemaru-net\win-hidemaru-app\hm_activeperl\hmperl.src\hmperl\hidemaruexe_export.cpp(127): error C2065: 'pswz': 定義されていない識別子です。
+g:\repogitory\hidemaru-net\win-hidemaru-app\hm_activeperl\hmperl.src\hmperl\hidemaruexe_export.cpp(142): error C2065: 'pswz': 定義されていない識別子です。
+g:\repogitory\hidemaru-net\win-hidemaru-app\hm_activeperl\hmperl.src\hmperl\hidemaruexe_export.cpp(224): error C2065: 'pswz': 定義されていない識別子です。
+g:\repogitory\hidemaru-net\win-hidemaru-app\hm_activeperl\hmperl.src\hmperl\perlez_engine.h(13): fatal error C1083: include ファイルを開けません。'perlez.h':No such file or directory (ソース ファイルをコンパイルしています dllfunc_interface.cpp)
+g:\repogitory\hidemaru-net\win-hidemaru-app\hm_activeperl\hmperl.src\hmperl\perlez_engine.h(13): fatal error C1083: include ファイルを開けません。'perlez.h':No such file or directory (ソース ファイルをコンパイルしています perlez_engine_path.cpp)
+g:\repogitory\hidemaru-net\win-hidemaru-app\hm_activeperl\hmperl.src\hmperl\perlez_engine.h(13): fatal error C1083: include ファイルを開けません。'perlez.h':No such file or directory (ソース ファイルをコンパイルしています perlez_magical_scalar.cpp)
+g:\repogitory\hidemaru-net\win-hidemaru-app\hm_activeperl\hmperl.src\hmperl\perlez_engine.h(13): fatal error C1083: include ファイルを開けません。'perlez.h':No such file or directory (ソース ファイルをコンパイルしています perlez_engine.cpp)
